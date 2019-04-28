@@ -1,13 +1,14 @@
-# Champs da Galáxia
-=====
+# Projeto para Disciplina de Eng. de Software 
 
-![](http://clubedosgeeks.com.br/wp-content/uploads/2014/01/champs-da-galaxia.png)
 
-Jogo de nave desenvolvido com tecnologia java.
+Para melhor desenvolvimento da atividade, seguir as respectivas instruções:
+> 01 Atividade deve ser realizada em dupla.
 
-Biblioteca/Dependência - Para reprodução de sons e efeitos sonoros do jogo, foi usada bibliotecas de terciros. JLayer - JZOOM: http://www.javazoom.net/index.shtml
+Atenção: 
+1) A dupla deve criar uma 'branch' exclusiva e trabalhar sobre ela (por exemplo, dupla 01). 
 
-# Ebook
-No link do site abaixo, encontra-se um livro (ebook) destinado a inspirar e motivar estudantes novatos ou até mesmo veteranos programadores, para programação voltada a desenvolvimento de jogos, ver que é possível criar bons jogos com linguagem de alto nível com Java e entender a mecânica básica de um jogo. Abordo de forma simples passo a passo a construção de um jogo de nave Champs da Galáxia, onde implementaremos o player jogador, disparos de armas, inimigos, música de fundo, efeitos sonoro, cenário móvel, e muito mais; no fim você ainda terá alguns desafios proposto para implementar no seu jogo, se aventure e venha nessa introdução ao desenvolvimento de jogos com Java.
+2) A dupla deve preencher na 'branch' o template para conhecer todo o Projeto Champs_da_Galaxia disponível no site da disciplina: <https://sites.google.com/souunit.com.br/engenhariadesoftwarei/diagramas-de-classe>.
 
-Download do Ebook: http://clubedosgeeks.com.br/download_livro/index.html
+3) Cada membro da equipe deve contribuir com o preenchimento do template, os commits da 'branch' serão acompanhados pela professora como parte da avaliação.
+
+4) Após preenchimento do Template, a dupla deverá trabalhar no diagrama de Classes do Projeto. E realizar a postagem do diagrama de classes na pasta atividade da 'branch'.
