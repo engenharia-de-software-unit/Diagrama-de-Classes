@@ -5,10 +5,19 @@ Para melhor desenvolvimento da atividade, seguir as respectivas instruções:
 > 01 Atividade deve ser realizada em dupla.
 
 Atenção: 
-1) A dupla deve criar uma 'branch' exclusiva e trabalhar sobre ela (por exemplo, dupla 01). 
+1) Encaminhar e-mail @souunit da dupla;
 
-2) A dupla deve preencher na 'branch' o template para conhecer todo o Projeto Champs_da_Galaxia disponível no site da disciplina: <https://sites.google.com/souunit.com.br/engenhariadesoftwarei/diagramas-de-classe>.
+2) Aceitar conviete como membro da Organização Engenharia de Software Unit;
 
-3) Cada membro da equipe deve contribuir com o preenchimento do template, os commits da 'branch' serão acompanhados pela professora como parte da avaliação.
+3) A dupla deve criar um Fork do Projeto Diagrama de Classes;
 
-4) Após preenchimento do Template, a dupla deverá trabalhar no diagrama de Classes do Projeto. E realizar a postagem do diagrama de classes na pasta atividade da 'branch'.
+4) A dupla deve criar em seu projeto a sua própria 'Branch', nomear 'Brach'como Dupla_Aluno01_Aluno02;
+
+5) Em seguida, criar uma Pasta com o mesmo nome da 'Branch,  'Brach'como Dupla_Aluno01_Aluno02, para colocar os arquivos;
+
+6) A dupla deve preencher na própria Pasta da 'Branch' o template para conhecer todo o Projeto Champs_da_Galaxia disponível no site da disciplina: <https://sites.google.com/souunit.com.br/engenhariadesoftwarei/diagramas-de-classe>.
+
+6) Cada membro da equipe deve contribuir com o preenchimento do template, pois os commits serão acompanhados pela professora como parte da avaliação.
+
+7) A dupla ao finalizar, deve criar um 'Pull Request' da 'Branch' criada para 'Branch Master' do Projeto Principal - Organização de Engenharia Software Unit;
+
