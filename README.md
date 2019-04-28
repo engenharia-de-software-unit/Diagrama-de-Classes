@@ -13,7 +13,7 @@ Atenção:
 
 4) A dupla deve criar em seu projeto a sua própria 'Branch', nomear 'Brach'como Dupla_Aluno01_Aluno02;
 
-5) Em seguida, criar uma Pasta com o mesmo nome da 'Branch,  'Brach'como Dupla_Aluno01_Aluno02, para colocar os arquivos;
+5) Em seguida, criar uma Pasta com o mesmo nome da 'Branch,  'Brach'como Dupla_Aluno01_Aluno02, para colocar os arquivos (Lembrando que só versiona pasta com algum arquivo dentro);
 
 6) A dupla deve preencher na própria Pasta da 'Branch' o template para conhecer todo o Projeto Champs_da_Galaxia disponível no site da disciplina: <https://sites.google.com/souunit.com.br/engenhariadesoftwarei/diagramas-de-classe>.
 
