@@ -2,7 +2,7 @@
 
 
 Para melhor desenvolvimento da atividade, seguir as respectivas instruções:
-> 01 Atividade deve ser realizada em dupla.
+>  Atividade deve ser realizada em dupla.
 
 Atenção: 
 1) Encaminhar e-mail @souunit da dupla;
