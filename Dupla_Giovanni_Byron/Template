@@ -1,0 +1,60 @@
+Disciplina: F113107 – Engenharia de Software.
+Professora: Jenifer Vieira Toledo Tavares.
+Equipe: Giovanni Pelloso
+
+Conhecendo o Projeto OSS para Contribuição
+
+
+I.	Descrição do Projeto
+
+
+1.	Nome do Projeto: Game Champs da Galaxia
+2.	Website: https://github.com/rodriguesfas/Champs_da_Galaxia
+3.	Descrição: É abordado de forma simples passo a passo a construção de um jogo de nave Champs da Galáxia, onde implementaremos o player jogador, disparos de armas, inimigos, música de fundo, efeitos sonoro, cenário móvel, e muito mais; no fim você ainda terá alguns desafios proposto para implementar no seu jogo, se aventure e venha nessa introdução ao desenvolvimento de jogos com Java.
+
+
+II.	Reconhecimento inicial
+
+4.	Há quanto tempo o projeto existe? Descreva brevemente o histórico do projeto. O projeto foi criado em 29 de abril de 2014
+O projeto começou apenas com a estrutura inicial, seguindo para a fase beta um pouco depois, após isso, apensa o readme.md foi atualizado
+5.	Qual a licença do projeto? Licensa do MIT
+6.	Qual o tamanho do projeto? Número de linhas de código? Número de classes?
+ 1238+75+98+121+75=1607
+7.	O tamanho do projeto tem crescido nas últimas versões?
+ Não
+8.	Existe atividade recente no projeto?
+ Não a última atividade foi identicada em 25 de julho de 2015
+9.	Existe colaboração de empresas para o projeto? Existem mais desenvolvedores independentes do que funcionários de empresas?
+ O MIT foi citado no projeto, o projeto que foi publicado disponibiliza a participação de somente um desenvolvedor
+10.	Quais são as tecnologias (linguagem, bibliotecas, bancos de dados) utilizadas pelo software?
+ Linguagem java, jl1.0.jar, não existe banco de dados 
+
+III.	Identificação de Tarefas
+
+11.	Onde fica o repositório de código fonte? Qual ferramenta de controle de versão é utilizada?
+ GameChampsDaGalaxiaBeta/src/galaxia/champs/game/
+ Não foi identificado um controle de versão.
+12.	Onde fica o repositório de bugs?
+ Não foi identificado um repositório de bugs
+13.	Existe documentação para ajudar novos colaboradores? Que tipo de informação está disponível?
+ Existem Informações relacionadas à instanciação de classes e a aplicabilidade dessas classes.
+14.	Existem bugs marcados como fáceis de serem resolvidos?
+ Se houverem bugs estes não foram identificados e explicitados pelo desenvolvedor
+15.	O código fonte contém listas de tarefas?
+ Não contém lista de tarefas
+16.	Existem comentários contendo TODO, FIXME, etc no código-fonte? Que tipo de necessidade estão colocadas nesses comentários?
+17.	Indique 5 tarefas que potencialmente podem ser realizadas até o final da disciplina. Estas tarefas podem ser relacionadas a resolução de bugs, implementação de funcionalidades, tradução, testes, revisão do código-fonte (i.e. arrumar código que não siga os padrões de estilo documentos do projeto), reportar bugs, etc. Outros tipos de tarefas podem ser realizados desde que aprovados pelos instrutores: fale com a gente.
+
+IV.	Caracterização Técnica
+
+18.	Quantos desenvolvedores participaram do projeto nos últimos 6 meses? E desde o início?
+19.	Qual a política de lançamento de versões?
+OBS: A equipe sugere que após essa pergunta, o questionário seja alterado para contemplar a seguinte pergunta: - Existe alguma política de contribuição? Descreva-a.
+20.	O projeto possui uma suíte de testes automatizados?
+
+21.	Existem partes do código fonte que são problemáticas? Justifique.
+
+22.	O código contém comentários? Existem partes que necessitam de mais comentários?
+23.	Padrões de projeto e padrões arquiteturais podem ser identificados a partir do código? Quais?
+24.	Como foi obtido o código fonte do projeto?
+25.	O que foi necessário instalar no seu sistema para fazer o projeto compilar/ rodar? A documentação disponibilizada pelo projeto foi suficiente?
