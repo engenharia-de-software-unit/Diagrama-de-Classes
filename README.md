@@ -1,6 +1,6 @@
 # Projeto para Disciplina de Eng. de Software 
 
-# PRIMEIRA FASE 29/04/2019 - Pull Requeste até as 18:30.
+# PRIMEIRA FASE 29/04/2019 - Pull Request até as 18:30.
 Para melhor desenvolvimento da atividade, seguir as respectivas instruções:
 >  Atividade deve ser realizada em dupla.
 
