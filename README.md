@@ -1,6 +1,6 @@
 # Projeto para Disciplina de Eng. de Software 
 
-
+# PRIMEIRA FASE 29/04/2019 - Pull Requeste até as 18:30.
 Para melhor desenvolvimento da atividade, seguir as respectivas instruções:
 >  Atividade deve ser realizada em dupla.
 
@@ -21,3 +21,12 @@ Atenção:
 
 7) A dupla ao finalizar, deve criar um 'Pull Request' da 'Branch' criada para 'Branch Master' do Projeto Principal - Organização de Engenharia Software Unit. Ao criar o 'Pull Request', utilizar o mesmo padrão de criação da 'Branch'e pasta: Dupla_Aluno01_Aluno02.
 
+
+# SEGUNDA FASE 06/05/2019 - Criação do Diagrama de Classes
+1) Agora que a dupla já conhece o Projeto Champs da Galaxia, vocês devem trabalhar na criação do Diagrama de Classes, seguindo os conceitos apresentados em sala.
+
+2) Sugiro que o Diagrama seja feito na ferramenta StarUML. E que ambos da dupla façam o Diagrama e depois discutam sobre o modo que cada um fez.
+
+3) Após criação do Diagrama, postar a imagem do mesmo atualizando a ´Branch´criada com um novo ´Pull Request´.
+
+4) Lembrem-se que os commits serão avaliados, portanto, utilizem de recursos, como por exemplo, o check-lis de ambos os membros da dupla para criar o Diagrama de Classes.
