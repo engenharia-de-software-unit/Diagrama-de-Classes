@@ -20,22 +20,17 @@ III - IDENTIFICAÇÃO DE TAREFAS
   13. Existe documentação para ajudar novos colaboradores? Que tipo de informação está disponível? Não. Ferramenta de desenvolvimento e algumas características.
   14. Existem bugs marcados como fáceis de serem resolvidos? Não. 
   15. O código fonte contém listas de tarefas? Não.
-  16. Existem comentários contendo TODO, FIXME, etc no código-fonte? Que tipo de necessidade estão colocadas nesses comentários?
-  17. Indique 5 tarefas que potencialmente podem ser realizadas até o final da disciplina. Estas tarefas podem ser relacionadas a resolução de bugs, implementação de funcionalidades, tradução, testes, revisão do código-fonte (i.e. arrumar código que não siga os padrões de estilo documentos do projeto), reportar bugs, etc. Outros tipos de tarefas podem ser realizados desde que aprovados pelos instrutores: fale com a gente.
-  
+  16.	Existem comentários contendo TODO, FIXME, etc no código-fonte? Que tipo de necessidade estão colocadas nesses comentários?>Sim, serve para categorizar ou descrever as ações realizadas pelo código de forma resumida e para facilitar a compreensão .
+17.	Indique 5 tarefas que potencialmente podem ser realizadas até o final da disciplina. Estas tarefas podem ser relacionadas a resolução de bugs, implementação de funcionalidades, tradução, testes, revisão do código-fonte (i.e. arrumar código que não siga os padrões de estilo documentos do projeto), reportar bugs, etc. Outros tipos de tarefas podem ser realizados desde que aprovados pelos instrutores: fale com a gente.
 IV - CARACTERIZAÇÃO TÉCNICA
-  
-  18. Quantos desenvolvedores participaram do projeto nos últimos 6 meses? E desde o início?
-  19. Qual a política de lançamento de versões?
-  OBS: A equipe sugere que após essa pergunta, o questionário seja alterado para contemplar a seguinte pergunta: - Existe alguma política de contribuição? Descreva-a.
-
-  20. O projeto possui uma suíte de testes automatizados?
-
-  21. Existem partes do código fonte que são problemáticas? Justifique.
-  22. O código contém comentários? Existem partes que necessitam de mais comentários?
-  23. Padrões de projeto e padrões arquiteturais podem ser identificados a partir do código? Quais?
-  24. Como foi obtido o código fonte do projeto?
-
-  25. O que foi necessário instalar no seu sistema para fazer o projeto compilar/ rodar? A documentação disponibilizada pelo projeto foi suficiente?
+18.	Quantos desenvolvedores participaram do projeto nos últimos 6 meses? E desde o início? > 2.
+19.	Qual a política de lançamento de versões? OBS: A equipe sugere que após essa pergunta, o questionário seja alterado para contemplar a seguinte pergunta: - Existe alguma política de contribuição? Descreva-a. >Nenhuma. Sim , através do software livre as pessoas podem realizar atualizações e melhorias ao jogo.
+20.	O projeto possui uma suíte de testes automatizados? > Não.
+21.	Existem partes do código fonte que são problemáticas? Justifique. Não , o código foi bem elaborado e estruturado.
+22.	O código contém comentários? Existem partes que necessitam de mais comentários? >Sim. E sim.
+23.	Padrões de projeto e padrões arquiteturais podem ser identificados a partir do código? Quais? > Sim. Escrita de métodos e atributos, bem como a organização das classes.
+24.	Como foi obtido o código fonte do projeto?
+>Foi  disponibilizada pela Free Software Foundatio.
+25.	O que foi necessário instalar no seu sistema para fazer o projeto compilar/ rodar? A documentação disponibilizada pelo projeto foi suficiente? >NetbeansIDE . Não o projeto apresentou erro .
 
   
